@@ -1,0 +1,21 @@
+[Adblock Plus 2.0]
+
+! Title: AdBlock
+!
+! Description: Ukrywa uciążliwe i zbędne elementy wybranych serwisów
+!
+! Version: 2024.01
+!
+! Homepage: https://github.com/ksciana/adblock/
+!
+! Issues: https://github.com/ksciana/adblock/issues
+!
+! Contact: missing-data
+!
+! Expires: 1 days
+!
+! License: Apache License 2.0
+
+! ****************************** theoldreader.com ******************************
+
+  theoldreader.com##div[id="banner_container"]
