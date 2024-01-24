@@ -19,3 +19,4 @@
 ! ****************************** theoldreader.com ******************************
 
   theoldreader.com##div[id="banner_container"]
+  allegro.pl##div[data-prototype-id="allegro.advertisement.slot.banner"]
