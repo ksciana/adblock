@@ -18,4 +18,4 @@
 
 theoldreader.com##div[id="banner_container"]
 allegro.pl##div[data-prototype-id="allegro.advertisement.slot.banner"]
-wykop.pl##section[class="sponsored-1"]
+wykop.pl##.sponsored-1
